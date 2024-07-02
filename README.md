@@ -14,9 +14,9 @@ git clone https://github.com/your-username/amazon-price-tracker.git
 2. Install dependencies:
 pip install -r requirements.txt
 ## Usage
-1. Set up your email credentials and desired product link and price threshold in `config.py`.
+1. Set up your email credentials and desired product link and price threshold in `main.py`.
 2. Run the script:
-3. python amazon_price_tracker.py
+3. python main.py
 ## Configuration
 To configure the Amazon Price Tracker, edit the `main.py` file with the following details:
 
