@@ -23,5 +23,6 @@ To configure the Amazon Price Tracker, edit the `main.py` file with the followin
 - **Product URL**: Replace `product_url` with the Amazon product URL you want to track.
   ```python
   product_url = 'https://www.amazon.com/dp/B07VFFC1Q3/'
+## Environment Variables
 1.Target Price: Set target_price to the price threshold below which you want to receive notifications.
 2.Email Settings: Update sender_email, receiver_email, and email_password with appropriate values.
