@@ -2,8 +2,8 @@ import requests
 import smtplib
 from bs4 import BeautifulSoup
 
-email = "your email id here"
-password = "your password here"
+email = "your email"
+password = "your password"
 url = input("Enter the url of the product: ")
 target_price = int(input("Enter the target price: "))
 header = {
